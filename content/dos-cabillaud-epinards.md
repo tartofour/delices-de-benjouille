@@ -9,8 +9,8 @@ author: tartof
 
 Magnifique plat à base de dos de cabillaud recouvert d'épinards et de fromage Philadelphia à la chapelure croustillante. Accompagné de purée de pommes de terre industrielles, ce mélange fondant-croquant vous transportera pour un voyage culinaire inoubliable. Préparez-vous à vous régaler !
 
-
-- 🍳 Temps de préparation: ~30 minutes
+- ⏲️ Temps de préparation: 20 min
+- 🍳 Temps de cuisson: 10 min
 - 🍽️  Couverts: 2
 
 ## Ingrédients

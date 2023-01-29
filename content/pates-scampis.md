@@ -9,7 +9,8 @@ author: tartof
 
 Ce mélange savoureux de tagliatelles fraîches et de scampis vous transportera dans un voyage culinaire inoubliable. Sa sauce crémeuse, parfumée et délicate surprendra vos papilles à chaque bouchée. 
 
-- 🍳 Temps de préparation: ~15 minutes
+- ⏲️ Temps de préparation: 5 min
+- 🍳 Temps de cuisson: 10 min
 - 🍽️  Couverts: 2
 
 ## Ingrédients
