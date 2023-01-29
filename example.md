@@ -10,9 +10,9 @@ Pour la plupart des plats, cela ne sera pas nécessaire.
 S'il y a une photo de ce plat, elle doit figurer au-dessus de ce paragraphe.
 Vous pouvez également indiquer le temps de préparation/cuisson et le nombre de portions comme ci-dessous :
 
-- ⏲️ Temps de préparation: 10 min
-- 🍳 Temps de cuisson: 30 min
-- 🍽️ Nombre de couverts: 4
+- ⏲️ Préparation: 10 min
+- 🍳 Cuisson: 30 min
+- 🍽️ Couvert(s): 4
 
 ## Ingrédients
 
