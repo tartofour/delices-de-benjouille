@@ -1,6 +1,6 @@
 # Based Cooking Website
 
-[https://delices-de-benjouille.be](https://delices-de-benjouille)
+[https://delices-de-benjouille.be](https://delices-de-benjouille.be)
 
 This is a simple cooking website where users can submit recipes.
 There are no ads, trackers or cookies (unless recipes thereof).
