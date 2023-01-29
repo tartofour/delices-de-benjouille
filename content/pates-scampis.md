@@ -32,6 +32,6 @@ N'hésitez pas à varier ces quantités selon vos envies.
 3. Dans une poêle chauffée à feu doux, faire fondre le beurre. Une fois fondu, y ajouter l'ail et l'oignon haché.
 4. Ajouter les tagliatelles dans l'eau bouillante et cuire selon les instructions indiquées sur le paquet.
 5. Dans la poêle, ajouter les scampis et cuire jusqu'à ce qu'ils deviennent roses.
-6. Ajouter la crème, les herbe aromatiques, le jus d'un demi citron et une pincée de sel et poivre. Laisser mijoter pendant 2-3 minutes.
+6. Ajouter la crème, les herbes aromatiques, le jus d'un demi citron et une pincée de sel et poivre. Laisser mijoter pendant 2-3 minutes.
 7. Ajouter les pâtes dans la poêle et bien mélanger.
 8. Servir chaud et déguster !
