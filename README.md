@@ -1,8 +1,8 @@
 # Based Cooking Website
 
-[https://based.cooking](https://based.cooking)
+[https://delices-de-benjouille.be](https://delices-de-benjouille)
 
-This is a simple cooking website where users can submit recipes here for credit.
+This is a simple cooking website where users can submit recipes.
 There are no ads, trackers or cookies (unless recipes thereof).
 
 This site is compiled and organized with Hugo, using [this very simple theme](https://github.com/lukesmithxyz/lugo).
@@ -35,11 +35,6 @@ This site is compiled and organized with Hugo, using [this very simple theme](ht
   don't need to care, it should be automatic).
 
 **If you fail to do these things, I will close your submission and you will have to resubmit. I am tired of having to fix more than 50% of submissions.**
-
-You may include a json file with your personal links/donation addresses in
-`data/authors/your-name.json`. See mine (`data/authors/luke-smith.json`) for a
-model. You can include: `website`, `donate` (general donation link), `email` or
-crypto addresses as `btc`, `xmr` and `eth`.
 
 ### Tags
 
