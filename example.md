@@ -1,39 +1,33 @@
 ---
-title: Dish Title
-tags: ['beef', 'soup', 'german']
+title: Titre du plat
+tags: ['boeuf', 'soupe', 'allemand']
 date: 2022-02-20
-author: "Your Name"
+author: "Votre nom"
 ---
 
-If necessary, provide a very brief description of the dish in one or two sentences.
-For most dishes, this will be unnecessary.
-If there is a title image of this dish, it should be above this paragraph.
-You may also include prep/cook time and the number of servings as below:
+Si nécessaire, donnez une très brève description du plat en une ou deux phrases.
+Pour la plupart des plats, cela ne sera pas nécessaire.
+S'il y a une photo de ce plat, elle doit figurer au-dessus de ce paragraphe.
+Vous pouvez également indiquer le temps de préparation/cuisson et le nombre de portions comme ci-dessous :
 
-- ⏲️ Prep time: 10 min
-- 🍳 Cook time: 30 min
-- 🍽️ Servings: 4
+- ⏲️ Temps de préparation: 10 min
+- 🍳 Temps de cuisson: 30 min
+- 🍽️ Nombre de couverts: 4
 
-## Ingredients
+## Ingrédients
 
-- There must be a blank line above all lists.
-- List the ingredients
-- in an unordered list
-- similar to this.
-- List amounts if necessary.
-- Put (optional) at the end of optional ingredients
+- Il doit y avoir une ligne vierge au-dessus de toutes les listes.
+- Énumérez les ingrédients
+- dans une liste non ordonnée
+- semblable à celle-ci.
+- Indiquez les quantités si nécessaire.
+- Mettez (facultatif) à la fin des ingrédients facultatifs.
 
-## Directions
+## Préparation
 
-1. Now using an ordered list,
-2. give the directions to prepare the dish.
-3. Do **not** add unnecessary blank lines between items.
-4. If necessary,
-5. an image can be included between some directions if needed to explain something particular.
-6. But that should be kept to a minimum to reduce bandwidth and aid in simplicity.
-
-Note that you can create a `your-name.json` file in `data/authors` to add
-personal links and donation addresses if you want more specific credit. If you
-do this, for the `author:` line the in the metadata, include the bare file name
-of the json file. For example, my file is `data/authors/luke-smith.json`, so I
-would put `author: luke-smith`.
+1. Utilisez maintenant une liste ordonnée,
+2. donnez les instructions pour préparer le plat.
+3. Ne **pas** ajouter de lignes vides inutiles entre les éléments.
+4. Si nécessaire,
+5. une image peut être incluse entre certaines instructions si cela est nécessaire pour expliquer quelque chose de particulier.
+6. Mais cela doit être limité au minimum pour réduire la bande passante et favoriser la simplicité.
