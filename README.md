@@ -34,8 +34,6 @@ This site is compiled and organized with Hugo, using [this very simple theme](ht
 - The file needs to be `\n` terminated in unix-fashion (if you're on Linux you
   don't need to care, it should be automatic).
 
-**If you fail to do these things, I will close your submission and you will have to resubmit. I am tired of having to fix more than 50% of submissions.**
-
 ### Tags
 
 Remember to add tags to your recipe, but try to use tags already used by other recipes.
