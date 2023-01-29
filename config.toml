@@ -1,0 +1,15 @@
+baseURL = 'https://delices-de-benjouille.be/'
+languageCode = 'en-us'
+title = 'Les délices de Benjouille'
+theme = 'lugo'
+
+[params]
+  favicon = "/favicon.svg"
+  stylesheet = "/style.css"
+  indexarticles = 50
+  taglist = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
