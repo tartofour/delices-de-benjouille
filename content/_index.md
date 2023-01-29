@@ -67,3 +67,8 @@ document.addEventListener("DOMContentLoaded", () => {
 ## Ou choisissez une catégorie...
 
 {{< tagcloud >}}
+
+## Contribuez facilement !
+
+Proposez de nouvelles recettes [via Github](https://github.com/tartofour/delices-de-benjouille).
+Pour les moins technophiles d'entre vous, n'hésitez pas à me contacter par message privé.
