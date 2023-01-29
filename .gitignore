@@ -5,6 +5,7 @@
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
+deploy
 
 # Temporary lock file while building
 /.hugo_build.lock
