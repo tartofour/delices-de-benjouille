@@ -2,7 +2,7 @@
 title: "Dos de cabillaud aux épinards"
 date: 2023-01-29
 tags: ['cabillaud', 'poisson', 'épinards', 'purée']
-author: tartof
+author: Tartof
 ---
 
 ![Cabillaud-aux-epinards](/pix/cabillaud-epinards.webp)
