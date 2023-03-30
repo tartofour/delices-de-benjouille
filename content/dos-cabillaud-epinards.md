@@ -7,7 +7,7 @@ author: Tartof
 
 ![Cabillaud-aux-epinards](/pix/cabillaud-epinards.webp)
 
-Magnifique plat à base de dos de cabillaud recouvert d'épinards et de fromage Philadelphia à la chapelure croustillante. Accompagné de purée de pommes de terre industrielles, ce mélange fondant-croquant vous transportera pour un voyage culinaire inoubliable. Préparez-vous à vous régaler !
+Magnifique plat à base de dos de cabillaud recouvert d'épinards et de fromage Philadelphia à la chapelure croustillante. Accompagné de purée de pommes de terre industrielle, ce mélange fondant-croquant vous transportera pour un voyage culinaire inoubliable. Préparez-vous à vous régaler !
 
 - ⏲️ Préparation: 20 min
 - 🍳 Cuisson: 10 min

@@ -7,7 +7,7 @@ author: Tartof
 
 ![Risotto-aux-champignons](/pix/risotto-aux-champignons.webp)
 
-Voici une recette qui va faire danser vos papilles et chatouiller vos narines ! Imaginez un risotto crémeux, parfumé à l'ail et aux herbes aromatiques, avec des champignons dorés à la poêle et un parmesan fondant à souhait. C'est un plat qui rendra heureux le roi (ou la reine) de la cuisine que vous êtes ! Avec sa texture moelleuse, son goût délicieux et sa saveur inoubliable, ce risotto est tout simplement divin. C'est une recette à faire rêver les plus grands chefs et à régaler les palais les plus exigeants. Alors, si vous cherchez un plat qui va éblouir vos invités et vous faire saliver de plaisir, ne cherchez plus : essayez ce risotto aux champignons et au parmesan, et vous ne serez pas déçu(e) !
+Voici une recette qui va faire danser vos papilles et chatouiller vos narines ! Imaginez un risotto crémeux, parfumé à l'ail et aux herbes aromatiques, avec des champignons dorés à la poêle et du parmesan fondant à souhait. Si vous cherchez un plat qui va éblouir vos invités et vous faire saliver de plaisir, ne cherchez plus : essayez ce risotto aux champignons, vous ne serez pas déçu(e) !
 
 - ⏲️ Préparation: 10 min
 - 🍳 Cuisson: 35 min
