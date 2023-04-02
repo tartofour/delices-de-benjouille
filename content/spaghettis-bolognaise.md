@@ -1,6 +1,6 @@
 ---
 title: Spaghettis à la Bolognaise
-tags: ['boeuf', 'porc', 'tomate', 'italien', 'bolognaise', spaghetti]
+tags: ['boeuf', 'porc', 'tomate', 'italie', 'bolognaise', pâtes]
 date: 2023-04-02
 author: "Tartof"
 ---
