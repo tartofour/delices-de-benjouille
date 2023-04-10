@@ -1,6 +1,6 @@
 ---
 title: Risotto aux champignons
-tags: ['riz', 'champignons', 'Italie']
+tags: ['riz', 'champignon', 'Italie']
 date: 2023-03-30
 author: Tartof
 ---

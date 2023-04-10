@@ -1,7 +1,7 @@
 ---
 title: "Tagliatelles aux scampis"
 date: 2023-01-29
-tags: ['italie', 'scampis', 'pâtes']
+tags: ['italie', 'scampi', 'pâtes']
 author: Tartof
 ---
 
